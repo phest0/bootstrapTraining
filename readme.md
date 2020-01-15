@@ -12,4 +12,4 @@ It's a project to train the framework Bootstrap.
 I had only 3 hours to complete exercise.
 
 ## How to run it ?
-i hosted it in "github pages".
+You can run it on the following [link](https://phest0.github.io/bootstrapTraining/).
